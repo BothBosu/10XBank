@@ -1,4 +1,5 @@
 import { Button, Flex, FormControl, FormLabel, Input, NumberDecrementStepper, NumberIncrementStepper, NumberInput, NumberInputField, NumberInputStepper, Text } from "@chakra-ui/react"
+import Moralis from "moralis"
 import { useState } from "react"
 import { useWeb3ExecuteFunction } from "react-moralis"
 
@@ -43,7 +44,7 @@ export default function Deposit() {
                     </Flex>      
                 </FormControl>
                 <Flex>
-                    <Button onClick={() => deposit(amount)} ml="6" mt="4" type="submit" colorScheme="purple">Deposit</Button>
+                    <Button onClick={() => deposit(amount)} ml="6" mt="4" colorScheme="purple">Deposit</Button>
                 </Flex>
             </form>  
         </>    

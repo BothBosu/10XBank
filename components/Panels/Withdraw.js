@@ -1,4 +1,5 @@
 import { Button, Flex, FormControl, FormLabel, NumberInput, NumberInputField, Text } from "@chakra-ui/react"
+import Moralis from "moralis";
 import { useState } from "react"
 import { useWeb3ExecuteFunction } from "react-moralis";
 

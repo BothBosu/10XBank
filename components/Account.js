@@ -7,7 +7,7 @@ export default function Account({user}) {
     return (
         <>
             <Text ml="10" align="left"><b>Account name: </b> {user.get("username")}</Text>
-            <Text ml="10" mt="4" align="left"><b>Balance: </b> </Text>
+            <Text ml="10" mt="4" align="left"><b>Balance: </b> </Text>             {/* add balance from Bank contract */}
             <Tabs mb="-20" mt="6" size="lg" colorScheme="purple" isFitted variant='enclosed'>
                 <TabList >
                     <Tab fontWeight="bold">Deposit</Tab>
