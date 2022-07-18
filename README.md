@@ -39,16 +39,16 @@ NEXT_PUBLIC_SERVER_URL = "URL"
 and set it equal to your node provider
 
 # 10XBank
-Landing page
+## Landing page
 ![image](https://user-images.githubusercontent.com/50020179/179503046-991e0b91-10d9-4bbe-b02f-dae4ac1b6d27.png)
 
-After login
+## After login
 ![image](https://user-images.githubusercontent.com/50020179/179503242-0f154ea3-b8af-43e1-a8c6-22a4b4d68b9b.png)
 
-Create Account
+## Create Account
 ![image](https://user-images.githubusercontent.com/50020179/179503670-d6ad6799-1101-421c-830b-0a0de90de3a6.png)
 
-Bank 
+## Bank 
 ![image](https://user-images.githubusercontent.com/50020179/179503753-39eed942-3509-4f7f-bff0-9de1f2750ce6.png)
 
 
