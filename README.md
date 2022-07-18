@@ -32,5 +32,23 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+Before start you need to create .env.local file with 
+NEXT_PUBLIC_APPID = ID
+NEXT_PUBLIC_SERVER_URL = "URL"
+and set it equal to your node provider
+
 # 10XBank
+Landing page
+![image](https://user-images.githubusercontent.com/50020179/179503046-991e0b91-10d9-4bbe-b02f-dae4ac1b6d27.png)
+
+After login
+![image](https://user-images.githubusercontent.com/50020179/179503242-0f154ea3-b8af-43e1-a8c6-22a4b4d68b9b.png)
+
+Create Account
+![image](https://user-images.githubusercontent.com/50020179/179503670-d6ad6799-1101-421c-830b-0a0de90de3a6.png)
+
+Bank 
+![image](https://user-images.githubusercontent.com/50020179/179503753-39eed942-3509-4f7f-bff0-9de1f2750ce6.png)
+
 
